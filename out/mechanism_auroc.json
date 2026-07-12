@@ -1,0 +1,7796 @@
+{
+ "en": {
+  "collapse": {
+   "n": 142,
+   "cov_risk": 0.8732,
+   "sem_entropy": 0.0084,
+   "self_cons": 0.9842,
+   "miss_rate": 1.0
+  },
+  "healthy": {
+   "n": 358,
+   "cov_risk": 0.0583,
+   "sem_entropy": 0.1814,
+   "self_cons": 0.7602,
+   "miss_rate": 0.257
+  },
+  "rows": [
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3399,
+    "self_cons": 0.7579,
+    "inv_self_cons": 0.2421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3866,
+    "self_cons": 0.5794,
+    "inv_self_cons": 0.4206,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2247,
+    "self_cons": 0.8316,
+    "inv_self_cons": 0.1684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.4789,
+    "inv_self_cons": 0.5211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.3333,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8079,
+    "inv_self_cons": 0.1921,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.4242,
+    "self_cons": 0.4149,
+    "inv_self_cons": 0.5851,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.125,
+    "sem_entropy": 0.5949,
+    "self_cons": 0.3193,
+    "inv_self_cons": 0.6807,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3883,
+    "self_cons": 0.4053,
+    "inv_self_cons": 0.5947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0286,
+    "sem_entropy": 0.3653,
+    "self_cons": 0.5307,
+    "inv_self_cons": 0.4693,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8737,
+    "inv_self_cons": 0.1263,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0417,
+    "sem_entropy": 0.3052,
+    "self_cons": 0.5319,
+    "inv_self_cons": 0.4681,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2677,
+    "self_cons": 0.5368,
+    "inv_self_cons": 0.4632,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0769,
+    "sem_entropy": 0.275,
+    "self_cons": 0.48,
+    "inv_self_cons": 0.52,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0263,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8368,
+    "inv_self_cons": 0.1632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.3684,
+    "sem_entropy": 0.5048,
+    "self_cons": 0.3596,
+    "inv_self_cons": 0.6404,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7789,
+    "inv_self_cons": 0.2211,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.3043,
+    "sem_entropy": 0.6237,
+    "self_cons": 0.2175,
+    "inv_self_cons": 0.7825,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0256,
+    "sem_entropy": 0.173,
+    "self_cons": 0.8737,
+    "inv_self_cons": 0.1263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0233,
+    "sem_entropy": 0.3572,
+    "self_cons": 0.6496,
+    "inv_self_cons": 0.3504,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.173,
+    "self_cons": 0.8404,
+    "inv_self_cons": 0.1596,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.7605,
+    "inv_self_cons": 0.2395,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0328,
+    "sem_entropy": 0.5838,
+    "self_cons": 0.5184,
+    "inv_self_cons": 0.4816,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2439,
+    "self_cons": 0.6263,
+    "inv_self_cons": 0.3737,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.5211,
+    "inv_self_cons": 0.4789,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.5141,
+    "self_cons": 0.4012,
+    "inv_self_cons": 0.5988,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.04,
+    "sem_entropy": 0.2821,
+    "self_cons": 0.4754,
+    "inv_self_cons": 0.5246,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.4789,
+    "inv_self_cons": 0.5211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0435,
+    "sem_entropy": 0.4681,
+    "self_cons": 0.4356,
+    "inv_self_cons": 0.5644,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3283,
+    "self_cons": 0.5302,
+    "inv_self_cons": 0.4698,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0682,
+    "sem_entropy": 0.322,
+    "self_cons": 0.74,
+    "inv_self_cons": 0.26,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3373,
+    "self_cons": 0.4368,
+    "inv_self_cons": 0.5632,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8737,
+    "inv_self_cons": 0.1263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0417,
+    "sem_entropy": 0.3652,
+    "self_cons": 0.4281,
+    "inv_self_cons": 0.5719,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.1875,
+    "sem_entropy": 0.4792,
+    "self_cons": 0.4379,
+    "inv_self_cons": 0.5621,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1154,
+    "sem_entropy": 0.5144,
+    "self_cons": 0.5158,
+    "inv_self_cons": 0.4842,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.1471,
+    "sem_entropy": 0.5861,
+    "self_cons": 0.3965,
+    "inv_self_cons": 0.6035,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.7158,
+    "inv_self_cons": 0.2842,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2439,
+    "self_cons": 0.5947,
+    "inv_self_cons": 0.4053,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7789,
+    "inv_self_cons": 0.2211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.1429,
+    "sem_entropy": 0.7644,
+    "self_cons": 0.287,
+    "inv_self_cons": 0.713,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3437,
+    "self_cons": 0.4316,
+    "inv_self_cons": 0.5684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2046,
+    "self_cons": 0.7105,
+    "inv_self_cons": 0.2895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4306,
+    "self_cons": 0.4333,
+    "inv_self_cons": 0.5667,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.125,
+    "sem_entropy": 0.2046,
+    "self_cons": 0.6526,
+    "inv_self_cons": 0.3474,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7789,
+    "inv_self_cons": 0.2211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2439,
+    "self_cons": 0.5737,
+    "inv_self_cons": 0.4263,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.8084,
+    "inv_self_cons": 0.1916,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.313,
+    "self_cons": 0.5674,
+    "inv_self_cons": 0.4326,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4298,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0909,
+    "sem_entropy": 0.2908,
+    "self_cons": 0.5307,
+    "inv_self_cons": 0.4693,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.025,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9333,
+    "inv_self_cons": 0.0667,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.401,
+    "self_cons": 0.6924,
+    "inv_self_cons": 0.3076,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0208,
+    "sem_entropy": 0.3229,
+    "self_cons": 0.4835,
+    "inv_self_cons": 0.5165,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.025,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9333,
+    "inv_self_cons": 0.0667,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0377,
+    "sem_entropy": 0.6157,
+    "self_cons": 0.3897,
+    "inv_self_cons": 0.6103,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.1429,
+    "sem_entropy": 0.5375,
+    "self_cons": 0.3829,
+    "inv_self_cons": 0.6171,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3437,
+    "self_cons": 0.4484,
+    "inv_self_cons": 0.5516,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.4789,
+    "inv_self_cons": 0.5211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3329,
+    "self_cons": 0.4439,
+    "inv_self_cons": 0.5561,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.5579,
+    "inv_self_cons": 0.4421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.6632,
+    "inv_self_cons": 0.3368,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 19,
+    "cov_risk": 0.1935,
+    "sem_entropy": 0.8437,
+    "self_cons": 0.3349,
+    "inv_self_cons": 0.6651,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0513,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.8066,
+    "inv_self_cons": 0.1934,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.1364,
+    "sem_entropy": 0.5311,
+    "self_cons": 0.314,
+    "inv_self_cons": 0.686,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.264,
+    "self_cons": 0.6421,
+    "inv_self_cons": 0.3579,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3335,
+    "self_cons": 0.7377,
+    "inv_self_cons": 0.2623,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.4806,
+    "self_cons": 0.4719,
+    "inv_self_cons": 0.5281,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.02,
+    "sem_entropy": 0.64,
+    "self_cons": 0.3185,
+    "inv_self_cons": 0.6815,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.0045,
+    "sem_entropy": 0.5413,
+    "self_cons": 0.864,
+    "inv_self_cons": 0.136,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0167,
+    "sem_entropy": 0.3572,
+    "self_cons": 0.6758,
+    "inv_self_cons": 0.3242,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2247,
+    "self_cons": 0.4947,
+    "inv_self_cons": 0.5053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.35,
+    "self_cons": 0.4974,
+    "inv_self_cons": 0.5026,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 18,
+    "cov_risk": 0.0882,
+    "sem_entropy": 0.7223,
+    "self_cons": 0.3414,
+    "inv_self_cons": 0.6586,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0286,
+    "sem_entropy": 0.445,
+    "self_cons": 0.4101,
+    "inv_self_cons": 0.5899,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.9105,
+    "inv_self_cons": 0.0895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0909,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9333,
+    "inv_self_cons": 0.0667,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2247,
+    "self_cons": 0.4947,
+    "inv_self_cons": 0.5053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.1667,
+    "sem_entropy": 0.3653,
+    "self_cons": 0.4439,
+    "inv_self_cons": 0.5561,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.286,
+    "self_cons": 0.5825,
+    "inv_self_cons": 0.4175,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.5579,
+    "inv_self_cons": 0.4421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0625,
+    "sem_entropy": 0.3704,
+    "self_cons": 0.4202,
+    "inv_self_cons": 0.5798,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3653,
+    "self_cons": 0.4746,
+    "inv_self_cons": 0.5254,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0333,
+    "sem_entropy": 0.4023,
+    "self_cons": 0.3982,
+    "inv_self_cons": 0.6018,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.7754,
+    "inv_self_cons": 0.2246,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3278,
+    "self_cons": 0.4889,
+    "inv_self_cons": 0.5111,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.5579,
+    "inv_self_cons": 0.4421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.3324,
+    "self_cons": 0.4518,
+    "inv_self_cons": 0.5482,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.6632,
+    "inv_self_cons": 0.3368,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.087,
+    "sem_entropy": 0.3092,
+    "self_cons": 0.5058,
+    "inv_self_cons": 0.4942,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.5372,
+    "self_cons": 0.3316,
+    "inv_self_cons": 0.6684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0278,
+    "sem_entropy": 0.618,
+    "self_cons": 0.4496,
+    "inv_self_cons": 0.5504,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0211,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.8386,
+    "inv_self_cons": 0.1614,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.6807,
+    "inv_self_cons": 0.3193,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.1429,
+    "sem_entropy": 0.173,
+    "self_cons": 0.7281,
+    "inv_self_cons": 0.2719,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0571,
+    "sem_entropy": 0.4242,
+    "self_cons": 0.4296,
+    "inv_self_cons": 0.5704,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.401,
+    "self_cons": 0.4523,
+    "inv_self_cons": 0.5477,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0769,
+    "sem_entropy": 0.249,
+    "self_cons": 0.5491,
+    "inv_self_cons": 0.4509,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.1111,
+    "sem_entropy": 0.275,
+    "self_cons": 0.4763,
+    "inv_self_cons": 0.5237,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0769,
+    "sem_entropy": 0.4426,
+    "self_cons": 0.4326,
+    "inv_self_cons": 0.5674,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.8658,
+    "inv_self_cons": 0.1342,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0577,
+    "sem_entropy": 0.4903,
+    "self_cons": 0.3807,
+    "inv_self_cons": 0.6193,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0263,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8368,
+    "inv_self_cons": 0.1632,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0323,
+    "sem_entropy": 0.3692,
+    "self_cons": 0.6482,
+    "inv_self_cons": 0.3518,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.1176,
+    "sem_entropy": 0.5224,
+    "self_cons": 0.4018,
+    "inv_self_cons": 0.5982,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9526,
+    "inv_self_cons": 0.0474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0172,
+    "sem_entropy": 0.2908,
+    "self_cons": 0.7123,
+    "inv_self_cons": 0.2877,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.8026,
+    "inv_self_cons": 0.1974,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3329,
+    "self_cons": 0.4579,
+    "inv_self_cons": 0.5421,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.445,
+    "self_cons": 0.3509,
+    "inv_self_cons": 0.6491,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.0882,
+    "sem_entropy": 0.6714,
+    "self_cons": 0.4937,
+    "inv_self_cons": 0.5063,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3333,
+    "self_cons": 0.4579,
+    "inv_self_cons": 0.5421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0513,
+    "sem_entropy": 0.533,
+    "self_cons": 0.4686,
+    "inv_self_cons": 0.5314,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7053,
+    "inv_self_cons": 0.2947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0244,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9667,
+    "inv_self_cons": 0.0333,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.6632,
+    "inv_self_cons": 0.3368,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0333,
+    "sem_entropy": 0.3449,
+    "self_cons": 0.5474,
+    "inv_self_cons": 0.4526,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.6526,
+    "inv_self_cons": 0.3474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.15,
+    "sem_entropy": 0.4879,
+    "self_cons": 0.2947,
+    "inv_self_cons": 0.7053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0263,
+    "sem_entropy": 0.3692,
+    "self_cons": 0.593,
+    "inv_self_cons": 0.407,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0476,
+    "sem_entropy": 0.6343,
+    "self_cons": 0.3592,
+    "inv_self_cons": 0.6408,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.027,
+    "sem_entropy": 0.173,
+    "self_cons": 0.7807,
+    "inv_self_cons": 0.2193,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.286,
+    "self_cons": 0.514,
+    "inv_self_cons": 0.486,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2959,
+    "self_cons": 0.5491,
+    "inv_self_cons": 0.4509,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3253,
+    "self_cons": 0.4248,
+    "inv_self_cons": 0.5752,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.3636,
+    "sem_entropy": 0.6149,
+    "self_cons": 0.2965,
+    "inv_self_cons": 0.7035,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.313,
+    "self_cons": 0.6684,
+    "inv_self_cons": 0.3316,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.25,
+    "sem_entropy": 0.5366,
+    "self_cons": 0.3635,
+    "inv_self_cons": 0.6365,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0385,
+    "sem_entropy": 0.4822,
+    "self_cons": 0.357,
+    "inv_self_cons": 0.643,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2046,
+    "self_cons": 0.6579,
+    "inv_self_cons": 0.3421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0233,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.6728,
+    "inv_self_cons": 0.3272,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9053,
+    "inv_self_cons": 0.0947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0189,
+    "sem_entropy": 0.533,
+    "self_cons": 0.575,
+    "inv_self_cons": 0.425,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.04,
+    "sem_entropy": 0.2757,
+    "self_cons": 0.5887,
+    "inv_self_cons": 0.4113,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.1633,
+    "sem_entropy": 0.78,
+    "self_cons": 0.4303,
+    "inv_self_cons": 0.5697,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0196,
+    "sem_entropy": 0.338,
+    "self_cons": 0.7697,
+    "inv_self_cons": 0.2303,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.7368,
+    "inv_self_cons": 0.2632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.15,
+    "sem_entropy": 0.5921,
+    "self_cons": 0.2114,
+    "inv_self_cons": 0.7886,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.286,
+    "self_cons": 0.5596,
+    "inv_self_cons": 0.4404,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.5211,
+    "inv_self_cons": 0.4789,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.1569,
+    "sem_entropy": 0.7424,
+    "self_cons": 0.4579,
+    "inv_self_cons": 0.5421,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0323,
+    "sem_entropy": 0.5227,
+    "self_cons": 0.2864,
+    "inv_self_cons": 0.7136,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0488,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.925,
+    "inv_self_cons": 0.075,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0385,
+    "sem_entropy": 0.4582,
+    "self_cons": 0.348,
+    "inv_self_cons": 0.652,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0769,
+    "sem_entropy": 0.249,
+    "self_cons": 0.5491,
+    "inv_self_cons": 0.4509,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0976,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8368,
+    "inv_self_cons": 0.1632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3692,
+    "self_cons": 0.3947,
+    "inv_self_cons": 0.6053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2247,
+    "self_cons": 0.8737,
+    "inv_self_cons": 0.1263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.4789,
+    "inv_self_cons": 0.5211,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8702,
+    "inv_self_cons": 0.1298,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0476,
+    "sem_entropy": 0.5288,
+    "self_cons": 0.3737,
+    "inv_self_cons": 0.6263,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2439,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.286,
+    "self_cons": 0.4947,
+    "inv_self_cons": 0.5053,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0233,
+    "sem_entropy": 0.7368,
+    "self_cons": 0.2746,
+    "inv_self_cons": 0.7254,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.2,
+    "sem_entropy": 0.4504,
+    "self_cons": 0.3,
+    "inv_self_cons": 0.7,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.313,
+    "self_cons": 0.5737,
+    "inv_self_cons": 0.4263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9053,
+    "inv_self_cons": 0.0947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.8316,
+    "inv_self_cons": 0.1684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.264,
+    "self_cons": 0.6947,
+    "inv_self_cons": 0.3053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0667,
+    "sem_entropy": 0.3876,
+    "self_cons": 0.3763,
+    "inv_self_cons": 0.6237,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.286,
+    "self_cons": 0.6851,
+    "inv_self_cons": 0.3149,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.5211,
+    "inv_self_cons": 0.4789,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2959,
+    "self_cons": 0.4789,
+    "inv_self_cons": 0.5211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.5579,
+    "inv_self_cons": 0.4421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8526,
+    "inv_self_cons": 0.1474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7053,
+    "inv_self_cons": 0.2947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7789,
+    "inv_self_cons": 0.2211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.8026,
+    "inv_self_cons": 0.1974,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.173,
+    "self_cons": 0.7807,
+    "inv_self_cons": 0.2193,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8526,
+    "inv_self_cons": 0.1474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 18,
+    "cov_risk": 0.1452,
+    "sem_entropy": 0.8756,
+    "self_cons": 0.2624,
+    "inv_self_cons": 0.7376,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2046,
+    "self_cons": 0.6579,
+    "inv_self_cons": 0.3421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0345,
+    "sem_entropy": 0.3747,
+    "self_cons": 0.514,
+    "inv_self_cons": 0.486,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0156,
+    "sem_entropy": 0.2295,
+    "self_cons": 0.6316,
+    "inv_self_cons": 0.3684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0278,
+    "sem_entropy": 0.5516,
+    "self_cons": 0.4846,
+    "inv_self_cons": 0.5154,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.25,
+    "sem_entropy": 0.173,
+    "self_cons": 0.7263,
+    "inv_self_cons": 0.2737,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1667,
+    "sem_entropy": 0.5311,
+    "self_cons": 0.3386,
+    "inv_self_cons": 0.6614,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.025,
+    "sem_entropy": 0.275,
+    "self_cons": 0.6386,
+    "inv_self_cons": 0.3614,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0164,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.975,
+    "inv_self_cons": 0.025,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.5211,
+    "inv_self_cons": 0.4789,
+    "has_miss": 0,
+    "collapse": 0
+   }
+  ]
+ },
+ "zh": {
+  "collapse": {
+   "n": 27,
+   "cov_risk": 0.037,
+   "sem_entropy": 0.0076,
+   "self_cons": 0.9836,
+   "miss_rate": 0.556
+  },
+  "healthy": {
+   "n": 335,
+   "cov_risk": 0.1419,
+   "sem_entropy": 0.4821,
+   "self_cons": 0.5133,
+   "miss_rate": 0.307
+  },
+  "rows": [
+   {
+    "union_size": 3,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.2821,
+    "self_cons": 0.4368,
+    "inv_self_cons": 0.5632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.4444,
+    "sem_entropy": 0.6699,
+    "self_cons": 0.3579,
+    "inv_self_cons": 0.6421,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.1333,
+    "sem_entropy": 0.4585,
+    "self_cons": 0.3474,
+    "inv_self_cons": 0.6526,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0351,
+    "sem_entropy": 0.5861,
+    "self_cons": 0.4132,
+    "inv_self_cons": 0.5868,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.2596,
+    "self_cons": 0.6316,
+    "inv_self_cons": 0.3684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.3448,
+    "sem_entropy": 0.3602,
+    "self_cons": 0.5591,
+    "inv_self_cons": 0.4409,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 19,
+    "cov_risk": 0.1613,
+    "sem_entropy": 0.5198,
+    "self_cons": 0.2886,
+    "inv_self_cons": 0.7114,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0167,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.9461,
+    "inv_self_cons": 0.0539,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.7143,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.7171,
+    "inv_self_cons": 0.2829,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0769,
+    "sem_entropy": 0.4441,
+    "self_cons": 0.5263,
+    "inv_self_cons": 0.4737,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0625,
+    "sem_entropy": 0.3803,
+    "self_cons": 0.4947,
+    "inv_self_cons": 0.5053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.2143,
+    "sem_entropy": 0.6468,
+    "self_cons": 0.2193,
+    "inv_self_cons": 0.7807,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2133,
+    "self_cons": 0.6421,
+    "inv_self_cons": 0.3579,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 20,
+    "cov_risk": 0.0584,
+    "sem_entropy": 0.9537,
+    "self_cons": 0.6078,
+    "inv_self_cons": 0.3922,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.9329,
+    "inv_self_cons": 0.0671,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4086,
+    "self_cons": 0.5053,
+    "inv_self_cons": 0.4947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.35,
+    "sem_entropy": 0.588,
+    "self_cons": 0.2,
+    "inv_self_cons": 0.8,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.456,
+    "self_cons": 0.3684,
+    "inv_self_cons": 0.6316,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2439,
+    "self_cons": 0.5737,
+    "inv_self_cons": 0.4263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.0705,
+    "sem_entropy": 0.7264,
+    "self_cons": 0.6101,
+    "inv_self_cons": 0.3899,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0556,
+    "sem_entropy": 0.5602,
+    "self_cons": 0.2851,
+    "inv_self_cons": 0.7149,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.5714,
+    "sem_entropy": 0.3602,
+    "self_cons": 0.4895,
+    "inv_self_cons": 0.5105,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7789,
+    "inv_self_cons": 0.2211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 30,
+    "cov_risk": 0.2386,
+    "sem_entropy": 0.9537,
+    "self_cons": 0.2816,
+    "inv_self_cons": 0.7184,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0172,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.891,
+    "inv_self_cons": 0.109,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 45,
+    "cov_risk": 0.7593,
+    "sem_entropy": 0.8206,
+    "self_cons": 0.0979,
+    "inv_self_cons": 0.9021,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.0928,
+    "sem_entropy": 0.6801,
+    "self_cons": 0.5061,
+    "inv_self_cons": 0.4939,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.249,
+    "self_cons": 0.8351,
+    "inv_self_cons": 0.1649,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.01,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9667,
+    "inv_self_cons": 0.0333,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.16,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.7927,
+    "inv_self_cons": 0.2073,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.0952,
+    "sem_entropy": 0.6817,
+    "self_cons": 0.5382,
+    "inv_self_cons": 0.4618,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0465,
+    "sem_entropy": 0.6487,
+    "self_cons": 0.3912,
+    "inv_self_cons": 0.6088,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.1042,
+    "sem_entropy": 0.533,
+    "self_cons": 0.5718,
+    "inv_self_cons": 0.4282,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.7395,
+    "inv_self_cons": 0.2605,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0128,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.9105,
+    "inv_self_cons": 0.0895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.1233,
+    "sem_entropy": 0.7193,
+    "self_cons": 0.216,
+    "inv_self_cons": 0.784,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3093,
+    "self_cons": 0.4053,
+    "inv_self_cons": 0.5947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 26,
+    "cov_risk": 0.3846,
+    "sem_entropy": 1.0,
+    "self_cons": 0.1272,
+    "inv_self_cons": 0.8728,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.225,
+    "sem_entropy": 0.3324,
+    "self_cons": 0.4221,
+    "inv_self_cons": 0.5779,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.508,
+    "self_cons": 0.1947,
+    "inv_self_cons": 0.8053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.2727,
+    "sem_entropy": 0.7106,
+    "self_cons": 0.1354,
+    "inv_self_cons": 0.8646,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.1071,
+    "sem_entropy": 0.6817,
+    "self_cons": 0.2298,
+    "inv_self_cons": 0.7702,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 40,
+    "cov_risk": 0.1314,
+    "sem_entropy": 0.9537,
+    "self_cons": 0.3466,
+    "inv_self_cons": 0.6534,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.0349,
+    "sem_entropy": 0.4203,
+    "self_cons": 0.7817,
+    "inv_self_cons": 0.2183,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3692,
+    "self_cons": 0.3842,
+    "inv_self_cons": 0.6158,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2733,
+    "self_cons": 0.8475,
+    "inv_self_cons": 0.1525,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.0385,
+    "sem_entropy": 0.8437,
+    "self_cons": 0.4217,
+    "inv_self_cons": 0.5783,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 20,
+    "cov_risk": 0.4375,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.0319,
+    "inv_self_cons": 0.9681,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 25,
+    "cov_risk": 0.2576,
+    "sem_entropy": 0.8293,
+    "self_cons": 0.2365,
+    "inv_self_cons": 0.7635,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.3,
+    "sem_entropy": 0.7007,
+    "self_cons": 0.1,
+    "inv_self_cons": 0.9,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0125,
+    "sem_entropy": 0.3449,
+    "self_cons": 0.7702,
+    "inv_self_cons": 0.2298,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 15,
+    "cov_risk": 0.2667,
+    "sem_entropy": 0.8756,
+    "self_cons": 0.0665,
+    "inv_self_cons": 0.9335,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.1081,
+    "sem_entropy": 0.7032,
+    "self_cons": 0.2076,
+    "inv_self_cons": 0.7924,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.006,
+    "sem_entropy": 0.3371,
+    "self_cons": 0.8721,
+    "inv_self_cons": 0.1279,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.3846,
+    "sem_entropy": 0.3602,
+    "self_cons": 0.4842,
+    "inv_self_cons": 0.5158,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.0403,
+    "sem_entropy": 0.4473,
+    "self_cons": 0.8004,
+    "inv_self_cons": 0.1996,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3891,
+    "self_cons": 0.7037,
+    "inv_self_cons": 0.2963,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 18,
+    "cov_risk": 0.2203,
+    "sem_entropy": 0.8987,
+    "self_cons": 0.4882,
+    "inv_self_cons": 0.5118,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 19,
+    "cov_risk": 0.2955,
+    "sem_entropy": 0.8987,
+    "self_cons": 0.1175,
+    "inv_self_cons": 0.8825,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 15,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.173,
+    "self_cons": 0.8404,
+    "inv_self_cons": 0.1596,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.6667,
+    "sem_entropy": 0.8668,
+    "self_cons": 0.0368,
+    "inv_self_cons": 0.9632,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 19,
+    "cov_risk": 0.1481,
+    "sem_entropy": 0.9074,
+    "self_cons": 0.1797,
+    "inv_self_cons": 0.8203,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0556,
+    "sem_entropy": 0.3885,
+    "self_cons": 0.6009,
+    "inv_self_cons": 0.3991,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3659,
+    "self_cons": 0.4105,
+    "inv_self_cons": 0.5895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9526,
+    "inv_self_cons": 0.0474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 18,
+    "cov_risk": 0.2973,
+    "sem_entropy": 0.9219,
+    "self_cons": 0.0554,
+    "inv_self_cons": 0.9446,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3139,
+    "self_cons": 0.4947,
+    "inv_self_cons": 0.5053,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.1458,
+    "sem_entropy": 0.7743,
+    "self_cons": 0.3461,
+    "inv_self_cons": 0.6539,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.5,
+    "sem_entropy": 0.6801,
+    "self_cons": 0.1553,
+    "inv_self_cons": 0.8447,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0385,
+    "sem_entropy": 0.563,
+    "self_cons": 0.3105,
+    "inv_self_cons": 0.6895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.0417,
+    "sem_entropy": 0.6081,
+    "self_cons": 0.5489,
+    "inv_self_cons": 0.4511,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3692,
+    "self_cons": 0.3842,
+    "inv_self_cons": 0.6158,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0556,
+    "sem_entropy": 0.6164,
+    "self_cons": 0.2996,
+    "inv_self_cons": 0.7004,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0833,
+    "sem_entropy": 0.4122,
+    "self_cons": 0.4842,
+    "inv_self_cons": 0.5158,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0263,
+    "sem_entropy": 0.3371,
+    "self_cons": 0.6842,
+    "inv_self_cons": 0.3158,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0256,
+    "sem_entropy": 0.4648,
+    "self_cons": 0.4018,
+    "inv_self_cons": 0.5982,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 46,
+    "cov_risk": 0.6349,
+    "sem_entropy": 0.7974,
+    "self_cons": 0.1075,
+    "inv_self_cons": 0.8925,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.0385,
+    "sem_entropy": 0.7094,
+    "self_cons": 0.3757,
+    "inv_self_cons": 0.6243,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.313,
+    "self_cons": 0.6053,
+    "inv_self_cons": 0.3947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.2778,
+    "sem_entropy": 0.6673,
+    "self_cons": 0.1912,
+    "inv_self_cons": 0.8088,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.4348,
+    "sem_entropy": 0.8062,
+    "self_cons": 0.0675,
+    "inv_self_cons": 0.9325,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.5231,
+    "self_cons": 0.6807,
+    "inv_self_cons": 0.3193,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.0111,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.8828,
+    "inv_self_cons": 0.1172,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.4,
+    "sem_entropy": 0.8987,
+    "self_cons": 0.0387,
+    "inv_self_cons": 0.9613,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.1481,
+    "sem_entropy": 0.64,
+    "self_cons": 0.1697,
+    "inv_self_cons": 0.8303,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0366,
+    "sem_entropy": 0.4814,
+    "self_cons": 0.7194,
+    "inv_self_cons": 0.2806,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 1.0,
+    "sem_entropy": 0.6699,
+    "self_cons": 0.1895,
+    "inv_self_cons": 0.8105,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.5283,
+    "self_cons": 0.1947,
+    "inv_self_cons": 0.8053,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.4595,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.1161,
+    "inv_self_cons": 0.8839,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.3571,
+    "sem_entropy": 0.5926,
+    "self_cons": 0.307,
+    "inv_self_cons": 0.693,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.4167,
+    "sem_entropy": 0.8524,
+    "self_cons": 0.0921,
+    "inv_self_cons": 0.9079,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 29,
+    "cov_risk": 0.3607,
+    "sem_entropy": 1.0,
+    "self_cons": 0.2355,
+    "inv_self_cons": 0.7645,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0435,
+    "sem_entropy": 0.3572,
+    "self_cons": 0.4956,
+    "inv_self_cons": 0.5044,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.1053,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.7158,
+    "inv_self_cons": 0.2842,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9368,
+    "inv_self_cons": 0.0632,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.025,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.9175,
+    "inv_self_cons": 0.0825,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.6807,
+    "inv_self_cons": 0.3193,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4575,
+    "self_cons": 0.4908,
+    "inv_self_cons": 0.5092,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0263,
+    "sem_entropy": 0.4681,
+    "self_cons": 0.5649,
+    "inv_self_cons": 0.4351,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 25,
+    "cov_risk": 0.5385,
+    "sem_entropy": 0.9219,
+    "self_cons": 0.0534,
+    "inv_self_cons": 0.9466,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.98,
+    "inv_self_cons": 0.02,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.2295,
+    "self_cons": 0.5842,
+    "inv_self_cons": 0.4158,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9621,
+    "inv_self_cons": 0.0379,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.1373,
+    "sem_entropy": 0.8426,
+    "self_cons": 0.1377,
+    "inv_self_cons": 0.8623,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.1515,
+    "sem_entropy": 0.7193,
+    "self_cons": 0.1553,
+    "inv_self_cons": 0.8447,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 20,
+    "cov_risk": 0.2045,
+    "sem_entropy": 0.8668,
+    "self_cons": 0.0805,
+    "inv_self_cons": 0.9195,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0244,
+    "sem_entropy": 0.173,
+    "self_cons": 0.843,
+    "inv_self_cons": 0.157,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.1912,
+    "sem_entropy": 0.8657,
+    "self_cons": 0.3312,
+    "inv_self_cons": 0.6688,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2297,
+    "self_cons": 0.8958,
+    "inv_self_cons": 0.1042,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.2745,
+    "sem_entropy": 0.7223,
+    "self_cons": 0.185,
+    "inv_self_cons": 0.815,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 75,
+    "cov_risk": 0.4519,
+    "sem_entropy": 0.7727,
+    "self_cons": 0.1592,
+    "inv_self_cons": 0.8408,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.9463,
+    "inv_self_cons": 0.0537,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.0984,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.5168,
+    "inv_self_cons": 0.4832,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.2708,
+    "sem_entropy": 0.8426,
+    "self_cons": 0.1169,
+    "inv_self_cons": 0.8831,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.1905,
+    "sem_entropy": 0.6251,
+    "self_cons": 0.2771,
+    "inv_self_cons": 0.7229,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.7789,
+    "inv_self_cons": 0.2211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.4038,
+    "sem_entropy": 0.6801,
+    "self_cons": 0.3233,
+    "inv_self_cons": 0.6767,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2733,
+    "self_cons": 0.8555,
+    "inv_self_cons": 0.1445,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.4783,
+    "sem_entropy": 0.6149,
+    "self_cons": 0.2053,
+    "inv_self_cons": 0.7947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.7586,
+    "sem_entropy": 0.8426,
+    "self_cons": 0.0579,
+    "inv_self_cons": 0.9421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0571,
+    "sem_entropy": 0.3283,
+    "self_cons": 0.6746,
+    "inv_self_cons": 0.3254,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4131,
+    "self_cons": 0.7865,
+    "inv_self_cons": 0.2135,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 36,
+    "cov_risk": 0.5345,
+    "sem_entropy": 0.7656,
+    "self_cons": 0.1732,
+    "inv_self_cons": 0.8268,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.0187,
+    "sem_entropy": 0.5516,
+    "self_cons": 0.4336,
+    "inv_self_cons": 0.5664,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.2653,
+    "sem_entropy": 0.6149,
+    "self_cons": 0.2515,
+    "inv_self_cons": 0.7485,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0222,
+    "sem_entropy": 0.6532,
+    "self_cons": 0.2091,
+    "inv_self_cons": 0.7909,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0423,
+    "sem_entropy": 0.5694,
+    "self_cons": 0.6033,
+    "inv_self_cons": 0.3967,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1364,
+    "sem_entropy": 0.5222,
+    "self_cons": 0.2684,
+    "inv_self_cons": 0.7316,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.3704,
+    "self_cons": 0.3579,
+    "inv_self_cons": 0.6421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.1667,
+    "sem_entropy": 0.585,
+    "self_cons": 0.1632,
+    "inv_self_cons": 0.8368,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.1667,
+    "sem_entropy": 0.5453,
+    "self_cons": 0.5153,
+    "inv_self_cons": 0.4847,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 25,
+    "cov_risk": 0.2394,
+    "sem_entropy": 0.8657,
+    "self_cons": 0.2884,
+    "inv_self_cons": 0.7116,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.5141,
+    "self_cons": 0.3632,
+    "inv_self_cons": 0.6368,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.0276,
+    "sem_entropy": 0.6411,
+    "self_cons": 0.7418,
+    "inv_self_cons": 0.2582,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 81,
+    "cov_risk": 0.703,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.0294,
+    "inv_self_cons": 0.9706,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0072,
+    "sem_entropy": 0.4905,
+    "self_cons": 0.8206,
+    "inv_self_cons": 0.1794,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0175,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.8452,
+    "inv_self_cons": 0.1548,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.6632,
+    "inv_self_cons": 0.3368,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0294,
+    "sem_entropy": 0.4329,
+    "self_cons": 0.5105,
+    "inv_self_cons": 0.4895,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0256,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.7746,
+    "inv_self_cons": 0.2254,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.0448,
+    "sem_entropy": 0.75,
+    "self_cons": 0.6802,
+    "inv_self_cons": 0.3198,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.313,
+    "self_cons": 0.6895,
+    "inv_self_cons": 0.3105,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.4091,
+    "sem_entropy": 0.7974,
+    "self_cons": 0.1421,
+    "inv_self_cons": 0.8579,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.2692,
+    "sem_entropy": 0.7193,
+    "self_cons": 0.1158,
+    "inv_self_cons": 0.8842,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 26,
+    "cov_risk": 0.1163,
+    "sem_entropy": 0.9219,
+    "self_cons": 0.5377,
+    "inv_self_cons": 0.4623,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0175,
+    "sem_entropy": 0.4363,
+    "self_cons": 0.6035,
+    "inv_self_cons": 0.3965,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.375,
+    "sem_entropy": 0.6626,
+    "self_cons": 0.15,
+    "inv_self_cons": 0.85,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 25,
+    "cov_risk": 0.1961,
+    "sem_entropy": 0.8657,
+    "self_cons": 0.5903,
+    "inv_self_cons": 0.4097,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0333,
+    "sem_entropy": 0.3812,
+    "self_cons": 0.4895,
+    "inv_self_cons": 0.5105,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 35,
+    "cov_risk": 0.2892,
+    "sem_entropy": 0.7974,
+    "self_cons": 0.1713,
+    "inv_self_cons": 0.8287,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0938,
+    "sem_entropy": 0.4806,
+    "self_cons": 0.5053,
+    "inv_self_cons": 0.4947,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.1053,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.7158,
+    "inv_self_cons": 0.2842,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.2821,
+    "self_cons": 0.4368,
+    "inv_self_cons": 0.5632,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.093,
+    "sem_entropy": 0.4814,
+    "self_cons": 0.3622,
+    "inv_self_cons": 0.6378,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 25,
+    "cov_risk": 0.6176,
+    "sem_entropy": 0.9074,
+    "self_cons": 0.0525,
+    "inv_self_cons": 0.9475,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.5144,
+    "self_cons": 0.6791,
+    "inv_self_cons": 0.3209,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 29,
+    "cov_risk": 0.0926,
+    "sem_entropy": 0.9306,
+    "self_cons": 0.6038,
+    "inv_self_cons": 0.3962,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 42,
+    "cov_risk": 0.2574,
+    "sem_entropy": 0.7727,
+    "self_cons": 0.1949,
+    "inv_self_cons": 0.8051,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.4865,
+    "sem_entropy": 0.9074,
+    "self_cons": 0.0528,
+    "inv_self_cons": 0.9472,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0278,
+    "sem_entropy": 0.4487,
+    "self_cons": 0.4772,
+    "inv_self_cons": 0.5228,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 18,
+    "cov_risk": 0.5385,
+    "sem_entropy": 0.8843,
+    "self_cons": 0.049,
+    "inv_self_cons": 0.951,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.249,
+    "self_cons": 0.5316,
+    "inv_self_cons": 0.4684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.9091,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.0053,
+    "inv_self_cons": 0.9947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0238,
+    "sem_entropy": 0.3278,
+    "self_cons": 0.6398,
+    "inv_self_cons": 0.3602,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.3478,
+    "sem_entropy": 0.5023,
+    "self_cons": 0.3893,
+    "inv_self_cons": 0.6107,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0526,
+    "sem_entropy": 0.5892,
+    "self_cons": 0.5655,
+    "inv_self_cons": 0.4345,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0312,
+    "sem_entropy": 0.4131,
+    "self_cons": 0.3391,
+    "inv_self_cons": 0.6609,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.3448,
+    "sem_entropy": 0.8612,
+    "self_cons": 0.0614,
+    "inv_self_cons": 0.9386,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2439,
+    "self_cons": 0.6865,
+    "inv_self_cons": 0.3135,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.6673,
+    "self_cons": 0.4468,
+    "inv_self_cons": 0.5532,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.173,
+    "self_cons": 0.8886,
+    "inv_self_cons": 0.1114,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.2069,
+    "sem_entropy": 0.7007,
+    "self_cons": 0.1434,
+    "inv_self_cons": 0.8566,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4457,
+    "self_cons": 0.2684,
+    "inv_self_cons": 0.7316,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.4043,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.1859,
+    "inv_self_cons": 0.8141,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.1724,
+    "sem_entropy": 0.7512,
+    "self_cons": 0.1684,
+    "inv_self_cons": 0.8316,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.5385,
+    "sem_entropy": 0.7032,
+    "self_cons": 0.1263,
+    "inv_self_cons": 0.8737,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 0,
+    "cov_risk": 1.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.0083,
+    "sem_entropy": 0.5463,
+    "self_cons": 0.6877,
+    "inv_self_cons": 0.3123,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.6061,
+    "sem_entropy": 0.5023,
+    "self_cons": 0.3774,
+    "inv_self_cons": 0.6226,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.0833,
+    "sem_entropy": 0.8149,
+    "self_cons": 0.4167,
+    "inv_self_cons": 0.5833,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 29,
+    "cov_risk": 0.2985,
+    "sem_entropy": 0.6699,
+    "self_cons": 0.2493,
+    "inv_self_cons": 0.7507,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.8877,
+    "inv_self_cons": 0.1123,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.375,
+    "sem_entropy": 1.0,
+    "self_cons": 0.318,
+    "inv_self_cons": 0.682,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.1231,
+    "sem_entropy": 0.7264,
+    "self_cons": 0.5224,
+    "inv_self_cons": 0.4776,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 27,
+    "cov_risk": 0.4583,
+    "sem_entropy": 0.6149,
+    "self_cons": 0.2681,
+    "inv_self_cons": 0.7319,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.167,
+    "self_cons": 0.9663,
+    "inv_self_cons": 0.0337,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8368,
+    "inv_self_cons": 0.1632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2161,
+    "self_cons": 0.8803,
+    "inv_self_cons": 0.1197,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 35,
+    "cov_risk": 0.3733,
+    "sem_entropy": 0.7495,
+    "self_cons": 0.3006,
+    "inv_self_cons": 0.6994,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.8579,
+    "inv_self_cons": 0.1421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3168,
+    "self_cons": 0.5974,
+    "inv_self_cons": 0.4026,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.0388,
+    "sem_entropy": 0.75,
+    "self_cons": 0.518,
+    "inv_self_cons": 0.482,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.8553,
+    "inv_self_cons": 0.1447,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0435,
+    "sem_entropy": 0.6093,
+    "self_cons": 0.2035,
+    "inv_self_cons": 0.7965,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4908,
+    "self_cons": 0.2895,
+    "inv_self_cons": 0.7105,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.8105,
+    "inv_self_cons": 0.1895,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.1053,
+    "sem_entropy": 0.2989,
+    "self_cons": 0.5579,
+    "inv_self_cons": 0.4421,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 21,
+    "cov_risk": 0.1143,
+    "sem_entropy": 0.728,
+    "self_cons": 0.2516,
+    "inv_self_cons": 0.7484,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.28,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.6368,
+    "inv_self_cons": 0.3632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2314,
+    "self_cons": 0.4737,
+    "inv_self_cons": 0.5263,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.1667,
+    "sem_entropy": 0.7049,
+    "self_cons": 0.2904,
+    "inv_self_cons": 0.7096,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 23,
+    "cov_risk": 0.3571,
+    "sem_entropy": 0.3897,
+    "self_cons": 0.4675,
+    "inv_self_cons": 0.5325,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0328,
+    "sem_entropy": 0.1317,
+    "self_cons": 0.9258,
+    "inv_self_cons": 0.0742,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.5382,
+    "self_cons": 0.352,
+    "inv_self_cons": 0.648,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4723,
+    "self_cons": 0.3929,
+    "inv_self_cons": 0.6071,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1429,
+    "sem_entropy": 0.3972,
+    "self_cons": 0.4263,
+    "inv_self_cons": 0.5737,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 18,
+    "cov_risk": 0.3182,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.3134,
+    "inv_self_cons": 0.6866,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0244,
+    "sem_entropy": 0.3283,
+    "self_cons": 0.7219,
+    "inv_self_cons": 0.2781,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.5,
+    "sem_entropy": 0.7424,
+    "self_cons": 0.1211,
+    "inv_self_cons": 0.8789,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.1053,
+    "sem_entropy": 0.6532,
+    "self_cons": 0.3228,
+    "inv_self_cons": 0.6772,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0714,
+    "sem_entropy": 0.4582,
+    "self_cons": 0.3851,
+    "inv_self_cons": 0.6149,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.119,
+    "sem_entropy": 0.8437,
+    "self_cons": 0.5231,
+    "inv_self_cons": 0.4769,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2677,
+    "self_cons": 0.6632,
+    "inv_self_cons": 0.3368,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.3448,
+    "sem_entropy": 0.6714,
+    "self_cons": 0.1969,
+    "inv_self_cons": 0.8031,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.15,
+    "sem_entropy": 0.5007,
+    "self_cons": 0.2211,
+    "inv_self_cons": 0.7789,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.027,
+    "sem_entropy": 0.2046,
+    "self_cons": 0.8096,
+    "inv_self_cons": 0.1904,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2295,
+    "self_cons": 0.8746,
+    "inv_self_cons": 0.1254,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 42,
+    "cov_risk": 0.0535,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.5628,
+    "inv_self_cons": 0.4372,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0769,
+    "sem_entropy": 0.3972,
+    "self_cons": 0.6509,
+    "inv_self_cons": 0.3491,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9526,
+    "inv_self_cons": 0.0474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2997,
+    "self_cons": 0.4316,
+    "inv_self_cons": 0.5684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0976,
+    "sem_entropy": 0.728,
+    "self_cons": 0.2345,
+    "inv_self_cons": 0.7655,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0833,
+    "sem_entropy": 0.5835,
+    "self_cons": 0.2035,
+    "inv_self_cons": 0.7965,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3572,
+    "self_cons": 0.4368,
+    "inv_self_cons": 0.5632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.0083,
+    "sem_entropy": 0.173,
+    "self_cons": 0.918,
+    "inv_self_cons": 0.082,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 29,
+    "cov_risk": 0.3012,
+    "sem_entropy": 0.5453,
+    "self_cons": 0.5109,
+    "inv_self_cons": 0.4891,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.15,
+    "sem_entropy": 0.5311,
+    "self_cons": 0.2316,
+    "inv_self_cons": 0.7684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0217,
+    "sem_entropy": 0.2908,
+    "self_cons": 0.8142,
+    "inv_self_cons": 0.1858,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.125,
+    "sem_entropy": 0.4203,
+    "self_cons": 0.4728,
+    "inv_self_cons": 0.5272,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0556,
+    "sem_entropy": 0.173,
+    "self_cons": 0.7211,
+    "inv_self_cons": 0.2789,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.3052,
+    "self_cons": 0.5,
+    "inv_self_cons": 0.5,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.1449,
+    "sem_entropy": 0.6067,
+    "self_cons": 0.5185,
+    "inv_self_cons": 0.4815,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0198,
+    "sem_entropy": 0.5288,
+    "self_cons": 0.5257,
+    "inv_self_cons": 0.4743,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.1515,
+    "sem_entropy": 0.6442,
+    "self_cons": 0.2779,
+    "inv_self_cons": 0.7221,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1877,
+    "self_cons": 0.8026,
+    "inv_self_cons": 0.1974,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.15,
+    "sem_entropy": 0.728,
+    "self_cons": 0.3104,
+    "inv_self_cons": 0.6896,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.2,
+    "sem_entropy": 0.8062,
+    "self_cons": 0.1968,
+    "inv_self_cons": 0.8032,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 15,
+    "cov_risk": 0.0142,
+    "sem_entropy": 0.8987,
+    "self_cons": 0.6214,
+    "inv_self_cons": 0.3786,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0079,
+    "sem_entropy": 0.4582,
+    "self_cons": 0.6789,
+    "inv_self_cons": 0.3211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0192,
+    "sem_entropy": 0.2596,
+    "self_cons": 0.7158,
+    "inv_self_cons": 0.2842,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0278,
+    "sem_entropy": 0.267,
+    "self_cons": 0.6211,
+    "inv_self_cons": 0.3789,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.15,
+    "sem_entropy": 0.3509,
+    "self_cons": 0.4421,
+    "inv_self_cons": 0.5579,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.0813,
+    "sem_entropy": 0.1961,
+    "self_cons": 0.8473,
+    "inv_self_cons": 0.1527,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.1212,
+    "sem_entropy": 0.5135,
+    "self_cons": 0.5526,
+    "inv_self_cons": 0.4474,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 25,
+    "cov_risk": 0.0199,
+    "sem_entropy": 0.7656,
+    "self_cons": 0.842,
+    "inv_self_cons": 0.158,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0667,
+    "sem_entropy": 0.4098,
+    "self_cons": 0.4031,
+    "inv_self_cons": 0.5969,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.3371,
+    "self_cons": 0.4895,
+    "inv_self_cons": 0.5105,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.0069,
+    "sem_entropy": 0.7094,
+    "self_cons": 0.7093,
+    "inv_self_cons": 0.2907,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.1471,
+    "sem_entropy": 0.5607,
+    "self_cons": 0.3728,
+    "inv_self_cons": 0.6272,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 12,
+    "cov_risk": 0.1136,
+    "sem_entropy": 0.8668,
+    "self_cons": 0.145,
+    "inv_self_cons": 0.855,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 64,
+    "cov_risk": 0.2554,
+    "sem_entropy": 1.0,
+    "self_cons": 0.3576,
+    "inv_self_cons": 0.6424,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.267,
+    "self_cons": 0.5684,
+    "inv_self_cons": 0.4316,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0465,
+    "sem_entropy": 0.267,
+    "self_cons": 0.7886,
+    "inv_self_cons": 0.2114,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.3438,
+    "sem_entropy": 0.8843,
+    "self_cons": 0.0932,
+    "inv_self_cons": 0.9068,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 1
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.8526,
+    "inv_self_cons": 0.1474,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.3,
+    "sem_entropy": 0.8062,
+    "self_cons": 0.0684,
+    "inv_self_cons": 0.9316,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0645,
+    "sem_entropy": 0.4903,
+    "self_cons": 0.3921,
+    "inv_self_cons": 0.6079,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.4483,
+    "sem_entropy": 0.8194,
+    "self_cons": 0.1193,
+    "inv_self_cons": 0.8807,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.1389,
+    "sem_entropy": 0.5222,
+    "self_cons": 0.2772,
+    "inv_self_cons": 0.7228,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.6429,
+    "sem_entropy": 0.7656,
+    "self_cons": 0.1008,
+    "inv_self_cons": 0.8992,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.5579,
+    "inv_self_cons": 0.4421,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.0638,
+    "sem_entropy": 0.3283,
+    "self_cons": 0.534,
+    "inv_self_cons": 0.466,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2133,
+    "self_cons": 0.7263,
+    "inv_self_cons": 0.2737,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.1884,
+    "sem_entropy": 0.8843,
+    "self_cons": 0.1683,
+    "inv_self_cons": 0.8317,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0345,
+    "sem_entropy": 0.4013,
+    "self_cons": 0.5316,
+    "inv_self_cons": 0.4684,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.1071,
+    "sem_entropy": 0.6298,
+    "self_cons": 0.4404,
+    "inv_self_cons": 0.5596,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 11,
+    "cov_risk": 0.2963,
+    "sem_entropy": 0.6945,
+    "self_cons": 0.1697,
+    "inv_self_cons": 0.8303,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0294,
+    "sem_entropy": 0.3052,
+    "self_cons": 0.6842,
+    "inv_self_cons": 0.3158,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.05,
+    "sem_entropy": 0.3278,
+    "self_cons": 0.4474,
+    "inv_self_cons": 0.5526,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1411,
+    "self_cons": 0.7316,
+    "inv_self_cons": 0.2684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 13,
+    "cov_risk": 0.2326,
+    "sem_entropy": 0.7727,
+    "self_cons": 0.2516,
+    "inv_self_cons": 0.7484,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.338,
+    "self_cons": 0.3842,
+    "inv_self_cons": 0.6158,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9667,
+    "inv_self_cons": 0.0333,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2997,
+    "self_cons": 0.4316,
+    "inv_self_cons": 0.5684,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 16,
+    "cov_risk": 0.4583,
+    "sem_entropy": 0.7963,
+    "self_cons": 0.0789,
+    "inv_self_cons": 0.9211,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 28,
+    "cov_risk": 0.4107,
+    "sem_entropy": 0.7557,
+    "self_cons": 0.2494,
+    "inv_self_cons": 0.7506,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 38,
+    "cov_risk": 0.2935,
+    "sem_entropy": 0.7424,
+    "self_cons": 0.1909,
+    "inv_self_cons": 0.8091,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.3399,
+    "self_cons": 0.7866,
+    "inv_self_cons": 0.2134,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.0588,
+    "sem_entropy": 0.8524,
+    "self_cons": 0.6454,
+    "inv_self_cons": 0.3546,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 6,
+    "cov_risk": 0.1905,
+    "sem_entropy": 0.3833,
+    "self_cons": 0.5184,
+    "inv_self_cons": 0.4816,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 22,
+    "cov_risk": 0.4324,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.0489,
+    "inv_self_cons": 0.9511,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.2222,
+    "sem_entropy": 0.4792,
+    "self_cons": 0.5956,
+    "inv_self_cons": 0.4044,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 24,
+    "cov_risk": 0.1163,
+    "sem_entropy": 0.8843,
+    "self_cons": 0.5197,
+    "inv_self_cons": 0.4803,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 8,
+    "cov_risk": 0.1429,
+    "sem_entropy": 0.322,
+    "self_cons": 0.7465,
+    "inv_self_cons": 0.2535,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 51,
+    "cov_risk": 0.1303,
+    "sem_entropy": 0.9769,
+    "self_cons": 0.3934,
+    "inv_self_cons": 0.6066,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.4761,
+    "self_cons": 0.2474,
+    "inv_self_cons": 0.7526,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 14,
+    "cov_risk": 0.225,
+    "sem_entropy": 0.9074,
+    "self_cons": 0.1331,
+    "inv_self_cons": 0.8669,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 3,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.9,
+    "inv_self_cons": 0.1,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0541,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.7544,
+    "inv_self_cons": 0.2456,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 17,
+    "cov_risk": 0.619,
+    "sem_entropy": 0.9306,
+    "self_cons": 0.0202,
+    "inv_self_cons": 0.9798,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.3,
+    "sem_entropy": 0.6714,
+    "self_cons": 0.1368,
+    "inv_self_cons": 0.8632,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.24,
+    "sem_entropy": 0.7686,
+    "self_cons": 0.1661,
+    "inv_self_cons": 0.8339,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 15,
+    "cov_risk": 0.087,
+    "sem_entropy": 0.662,
+    "self_cons": 0.5826,
+    "inv_self_cons": 0.4174,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.1,
+    "sem_entropy": 0.5607,
+    "self_cons": 0.4419,
+    "inv_self_cons": 0.5581,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 7,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.286,
+    "self_cons": 0.5173,
+    "inv_self_cons": 0.4827,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0351,
+    "sem_entropy": 0.2365,
+    "self_cons": 0.8175,
+    "inv_self_cons": 0.1825,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 10,
+    "cov_risk": 0.1373,
+    "sem_entropy": 0.5231,
+    "self_cons": 0.5033,
+    "inv_self_cons": 0.4967,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 19,
+    "cov_risk": 0.4,
+    "sem_entropy": 0.8987,
+    "self_cons": 0.3711,
+    "inv_self_cons": 0.6289,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0167,
+    "sem_entropy": 0.0663,
+    "self_cons": 0.95,
+    "inv_self_cons": 0.05,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 5,
+    "cov_risk": 0.0556,
+    "sem_entropy": 0.322,
+    "self_cons": 0.6202,
+    "inv_self_cons": 0.3798,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 20,
+    "cov_risk": 0.1412,
+    "sem_entropy": 0.9219,
+    "self_cons": 0.4467,
+    "inv_self_cons": 0.5533,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 1,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 1
+   },
+   {
+    "union_size": 9,
+    "cov_risk": 0.2308,
+    "sem_entropy": 0.5048,
+    "self_cons": 0.3893,
+    "inv_self_cons": 0.6107,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 2,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.1085,
+    "self_cons": 0.9053,
+    "inv_self_cons": 0.0947,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": 0.2039,
+    "self_cons": 0.8895,
+    "inv_self_cons": 0.1105,
+    "has_miss": 1,
+    "collapse": 0
+   },
+   {
+    "union_size": 38,
+    "cov_risk": 0.1938,
+    "sem_entropy": 0.8843,
+    "self_cons": 0.275,
+    "inv_self_cons": 0.725,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 4,
+    "cov_risk": 0.0,
+    "sem_entropy": -0.0,
+    "self_cons": 1.0,
+    "inv_self_cons": 0.0,
+    "has_miss": 0,
+    "collapse": 0
+   },
+   {
+    "union_size": 19,
+    "cov_risk": 0.3889,
+    "sem_entropy": 0.9537,
+    "self_cons": 0.0503,
+    "inv_self_cons": 0.9497,
+    "has_miss": 1,
+    "collapse": 0
+   }
+  ]
+ }
+}

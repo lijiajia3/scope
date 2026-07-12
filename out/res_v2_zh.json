@@ -1,0 +1,121 @@
+{
+ "dataset": "zh",
+ "n": 362,
+ "K": 20,
+ "A_calibration": {
+  "mean_true_recall": 0.8892,
+  "mean_cov_gt": 0.8659,
+  "gap_cov_gt": -0.0233,
+  "corr_cov_gt": 0.2552,
+  "mean_cov_chao": 0.8677,
+  "gap_cov_chao": -0.0215,
+  "corr_cov_chao": 0.2559
+ },
+ "B_abstain": {
+  "n_certified": 256,
+  "n_abstain": 106,
+  "certified_recall": 0.912,
+  "abstain_recall": 0.8341,
+  "recall_gain": 0.0779
+ },
+ "C_decomposition": {
+  "omissions_half_budget": 183,
+  "systematic": 159,
+  "sampling_limited": 24,
+  "frac_systematic": 0.869
+ },
+ "D_triage_allmiss": {
+  "risk_gt": {
+   "auroc": 0.5758,
+   "review": {
+    "top10": 0.22,
+    "top20": 0.365,
+    "top30": 0.484,
+    "top50": 0.623
+   }
+  },
+  "set_entropy": {
+   "auroc": 0.5482,
+   "review": {
+    "top10": 0.132,
+    "top20": 0.264,
+    "top30": 0.39,
+    "top50": 0.541
+   }
+  },
+  "inv_self_consistency": {
+   "auroc": 0.564,
+   "review": {
+    "top10": 0.119,
+    "top20": 0.252,
+    "top30": 0.377,
+    "top50": 0.597
+   }
+  },
+  "singleton_frac": {
+   "auroc": 0.5715,
+   "review": {
+    "top10": 0.201,
+    "top20": 0.39,
+    "top30": 0.453,
+    "top50": 0.623
+   }
+  },
+  "RANDOM": {
+   "auroc": 0.5,
+   "review": {
+    "top10": 0.117,
+    "top20": 0.211,
+    "top30": 0.293,
+    "top50": 0.479
+   }
+  }
+ },
+ "D_triage_sampling": {
+  "risk_gt": {
+   "auroc": 0.786,
+   "review": {
+    "top10": 0.333,
+    "top20": 0.458,
+    "top30": 0.75,
+    "top50": 0.917
+   }
+  },
+  "set_entropy": {
+   "auroc": 0.7889,
+   "review": {
+    "top10": 0.375,
+    "top20": 0.542,
+    "top30": 0.625,
+    "top50": 0.917
+   }
+  },
+  "inv_self_consistency": {
+   "auroc": 0.7375,
+   "review": {
+    "top10": 0.167,
+    "top20": 0.417,
+    "top30": 0.667,
+    "top50": 0.792
+   }
+  },
+  "singleton_frac": {
+   "auroc": 0.7721,
+   "review": {
+    "top10": 0.375,
+    "top20": 0.5,
+    "top30": 0.625,
+    "top50": 0.958
+   }
+  },
+  "RANDOM": {
+   "auroc": 0.5,
+   "review": {
+    "top10": 0.1,
+    "top20": 0.225,
+    "top30": 0.292,
+    "top50": 0.508
+   }
+  }
+ }
+}

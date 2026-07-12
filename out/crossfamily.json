@@ -1,0 +1,119 @@
+{
+ "zh": {
+  "7b": {
+   "n": 362,
+   "calib_r": 0.2552,
+   "gap": -0.0232,
+   "cert_recall": 0.912,
+   "abst_recall": 0.8341,
+   "abstain_gain": 0.0779,
+   "frac_systematic": 0.869,
+   "triage_auroc": 0.5758
+  },
+  "glm": {
+   "n": 362,
+   "calib_r": -0.0402,
+   "gap": 0.031,
+   "cert_recall": 0.9647,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.0353,
+   "frac_systematic": 0.864,
+   "triage_auroc": 0.4852
+  },
+  "ling": {
+   "n": 362,
+   "calib_r": -0.0775,
+   "gap": -0.0058,
+   "cert_recall": 0.9869,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.0131,
+   "frac_systematic": 0.821,
+   "triage_auroc": 0.3971
+  },
+  "hunyuan": {
+   "n": 362,
+   "calib_r": 0.043,
+   "gap": 0.0038,
+   "cert_recall": 0.991,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.009,
+   "frac_systematic": 0.714,
+   "triage_auroc": 0.4985
+  },
+  "hymt": null,
+  "llama": null,
+  "dsv3": {
+   "n": 362,
+   "calib_r": 0.1154,
+   "gap": 0.0026,
+   "cert_recall": 0.9944,
+   "abst_recall": null,
+   "abstain_gain": 0.9944,
+   "frac_systematic": 0.688,
+   "triage_auroc": 0.5188
+  }
+ },
+ "en": {
+  "7b": {
+   "n": 500,
+   "calib_r": 0.8619,
+   "gap": 0.0542,
+   "cert_recall": 0.8799,
+   "abst_recall": 0.1337,
+   "abstain_gain": 0.7463,
+   "frac_systematic": 0.939,
+   "triage_auroc": 0.8323
+  },
+  "glm": {
+   "n": 500,
+   "calib_r": 0.0433,
+   "gap": 0.0044,
+   "cert_recall": 0.9936,
+   "abst_recall": 0.875,
+   "abstain_gain": 0.1186,
+   "frac_systematic": 0.833,
+   "triage_auroc": 0.5039
+  },
+  "ling": {
+   "n": 500,
+   "calib_r": 0.0394,
+   "gap": 0.0129,
+   "cert_recall": 0.9831,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.0169,
+   "frac_systematic": 0.833,
+   "triage_auroc": 0.4929
+  },
+  "hunyuan": {
+   "n": 500,
+   "calib_r": -0.0364,
+   "gap": 0.0041,
+   "cert_recall": 0.9933,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.0067,
+   "frac_systematic": 0.769,
+   "triage_auroc": 0.4418
+  },
+  "hymt": {
+   "n": 188,
+   "calib_r": -0.0763,
+   "gap": 0.0164,
+   "cert_recall": 0.9766,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.0234,
+   "frac_systematic": 0.867,
+   "triage_auroc": 0.4132
+  },
+  "llama": null,
+  "dsv3": {
+   "n": 500,
+   "calib_r": -0.0238,
+   "gap": 0.0043,
+   "cert_recall": 0.9935,
+   "abst_recall": 1.0,
+   "abstain_gain": -0.0065,
+   "frac_systematic": 0.909,
+   "triage_auroc": 0.499
+  }
+ }
+}

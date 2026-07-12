@@ -1,0 +1,278 @@
+{
+  "summary": {
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "K": 6,
+    "n": 6,
+    "A_selfcov_vs_truerecall": {
+      "mean_self_coverage": 0.722,
+      "mean_true_recall": 0.933,
+      "gap_selfcov_minus_truerecall": -0.211,
+      "mean_stable_recall": 0.933,
+      "mean_singleton_frac": 0.227
+    },
+    "B_abstain_sanity": {
+      "n_abstain": 3,
+      "n_certified": 3,
+      "abstain_mean_true_recall": 0.75,
+      "certified_mean_true_recall": 0.933
+    },
+    "C_triage": {
+      "total_missed_entities": 4,
+      "review_top_20pct": {
+        "sents_reviewed": 1,
+        "missed_caught": 0,
+        "recall_of_missed": 0.0,
+        "random_baseline": 0.2
+      },
+      "review_top_30pct": {
+        "sents_reviewed": 2,
+        "missed_caught": 0,
+        "recall_of_missed": 0.0,
+        "random_baseline": 0.3
+      },
+      "review_top_50pct": {
+        "sents_reviewed": 3,
+        "missed_caught": 0,
+        "recall_of_missed": 0.0,
+        "random_baseline": 0.5
+      }
+    }
+  },
+  "records": [
+    {
+      "id": "s000",
+      "text": "阿米替林、氟西汀、度洛西汀、米那普仑、吗氯贝胺和吡吲哚基于“有限证据”被欧洲抗风湿联盟推荐用于纤维性肌痛的治疗",
+      "entities": [
+        "吗氯贝胺",
+        "吡吲哚",
+        "度洛西汀",
+        "氟西汀",
+        "米那普仑",
+        "纤维性肌痛",
+        "阿米替林"
+      ],
+      "K": 6,
+      "U": 17,
+      "f1": 15,
+      "fK": 0,
+      "singleton_frac": 0.882,
+      "missing_mass": 2.5,
+      "self_coverage": -1.5,
+      "observed_union": [
+        "吗氯贝胺",
+        "吡吲哚",
+        "度洛西汀",
+        "抗风湿联盟",
+        "氟西汀",
+        "米那普仑",
+        "纤维化肌痛",
+        "纤维性肌痛",
+        "纤维性肌痛 氟西汀 阿米替林 度洛西汀 吗氯贝胺 米那普仑 吡吲哚",
+        "纤维痛",
+        "肌张力下降综合征",
+        "肌无力",
+        "肌痛",
+        "肌痛伴疲劳",
+        "肌肉痛",
+        "阿米替林",
+        "雷诺现象"
+      ],
+      "stable_union": [
+        "纤维性肌痛",
+        "肌痛"
+      ],
+      "status": "abstain",
+      "reason": "单次占比≥0.7，解码噪声主导，缺失质量不可信",
+      "true_recall": 1.0,
+      "missed": 0,
+      "stable_recall": 0.1429
+    },
+    {
+      "id": "s001",
+      "text": "氯米帕明可能会与许多不同的药物相互作用，包括单胺氧化酶抑制剂、抗心律不整药、奎尼丁、利尿剂、选择性血清素再摄取抑制剂、血清素作用药物及其他三环类抗抑郁药等",
+      "entities": [
+        "三环类抗抑郁药",
+        "利尿剂",
+        "单胺氧化酶抑制剂",
+        "奎尼丁",
+        "抗心律不整药",
+        "氯米帕明",
+        "血清素作用药物",
+        "选择性血清素再摄取抑制剂"
+      ],
+      "K": 6,
+      "U": 9,
+      "f1": 1,
+      "fK": 0,
+      "singleton_frac": 0.111,
+      "missing_mass": 0.1667,
+      "self_coverage": 0.8333,
+      "observed_union": [
+        "三环类抗抑郁药",
+        "利尿剂",
+        "单胺氧化酶抑制剂",
+        "奎尼丁",
+        "抗心律不整药",
+        "氯米帕明",
+        "氯米帕明 单胺氧化酶抑制剂 抗心律不整药 奎尼丁 利尿剂 选择性血清素再摄取抑制剂 血清素作用药物 其他三环类抗抑郁药",
+        "血清素作用药物",
+        "选择性血清素再摄取抑制剂"
+      ],
+      "stable_union": [
+        "三环类抗抑郁药",
+        "利尿剂",
+        "单胺氧化酶抑制剂",
+        "奎尼丁",
+        "抗心律不整药",
+        "氯米帕明 单胺氧化酶抑制剂 抗心律不整药 奎尼丁 利尿剂 选择性血清素再摄取抑制剂 血清素作用药物 其他三环类抗抑郁药",
+        "血清素作用药物",
+        "选择性血清素再摄取抑制剂"
+      ],
+      "status": "certified",
+      "reason": "ok",
+      "true_recall": 1.0,
+      "missed": 0,
+      "stable_recall": 1.0
+    },
+    {
+      "id": "s002",
+      "text": "几乎所有涉及血清素调控的药物都有可能引发血清素综合征——可造成狂躁、不安、焦虑、情绪不稳、失眠和迷惑的血清素浓度过高现象",
+      "entities": [
+        "不安",
+        "失眠",
+        "情绪不稳",
+        "焦虑",
+        "狂躁",
+        "血清素综合征",
+        "迷惑"
+      ],
+      "K": 6,
+      "U": 9,
+      "f1": 7,
+      "fK": 0,
+      "singleton_frac": 0.778,
+      "missing_mass": 1.1667,
+      "self_coverage": -0.1667,
+      "observed_union": [
+        "不安",
+        "失眠",
+        "情绪不稳",
+        "焦虑",
+        "狂躁",
+        "血清素",
+        "血清素综合征",
+        "血清素综合征-临床表现",
+        "迷惑"
+      ],
+      "stable_union": [
+        "血清素",
+        "血清素综合征"
+      ],
+      "status": "abstain",
+      "reason": "单次占比≥0.7，解码噪声主导，缺失质量不可信",
+      "true_recall": 1.0,
+      "missed": 0,
+      "stable_recall": 0.1429
+    },
+    {
+      "id": "s003",
+      "text": "脑出血30天之后死亡率是44%，高于缺血性中风，甚至高于非常致命的蛛网膜下腔出血",
+      "entities": [
+        "缺血性中风",
+        "脑",
+        "脑出血",
+        "蛛网膜下腔",
+        "蛛网膜下腔出血"
+      ],
+      "K": 6,
+      "U": 7,
+      "f1": 4,
+      "fK": 0,
+      "singleton_frac": 0.571,
+      "missing_mass": 0.6667,
+      "self_coverage": 0.3333,
+      "observed_union": [
+        "中风",
+        "死亡",
+        "缺血性中风",
+        "脑出血",
+        "脑出血 头部 中枢神经系统",
+        "脑出血 脑出血 蛛网膜下腔出血",
+        "蛛网膜下腔出血"
+      ],
+      "stable_union": [
+        "中风",
+        "脑出血",
+        "蛛网膜下腔出血"
+      ],
+      "status": "certified",
+      "reason": "ok",
+      "true_recall": 1.0,
+      "missed": 0,
+      "stable_recall": 1.0
+    },
+    {
+      "id": "s004",
+      "text": "和CYP3A4诱导剂（波生坦，磷苯妥英钠，苯妥英）联合用药，可能减少阿托伐他汀的血液浓度",
+      "entities": [
+        "CYP3A4诱导剂",
+        "波生坦",
+        "磷苯妥英钠",
+        "苯妥英",
+        "阿托伐他汀"
+      ],
+      "K": 6,
+      "U": 4,
+      "f1": 0,
+      "fK": 1,
+      "singleton_frac": 0.0,
+      "missing_mass": 0.0,
+      "self_coverage": 1.0,
+      "observed_union": [
+        "波生坦",
+        "磷苯妥英钠",
+        "苯妥英",
+        "阿托伐他汀"
+      ],
+      "stable_union": [
+        "波生坦",
+        "磷苯妥英钠",
+        "苯妥英",
+        "阿托伐他汀"
+      ],
+      "status": "certified",
+      "reason": "ok",
+      "true_recall": 0.8,
+      "missed": 1,
+      "stable_recall": 0.8
+    },
+    {
+      "id": "s005",
+      "text": "厄贝沙坦联合胺碘酮对植入DDD型起搏器患者心房颤动的发生有明显的协同抑制作用",
+      "entities": [
+        "DDD型起搏器",
+        "厄贝沙坦",
+        "心房颤动",
+        "胺碘酮"
+      ],
+      "K": 6,
+      "U": 1,
+      "f1": 0,
+      "fK": 1,
+      "singleton_frac": 0.0,
+      "missing_mass": 0.0,
+      "self_coverage": 1.0,
+      "observed_union": [
+        "心房颤动"
+      ],
+      "stable_union": [
+        "心房颤动"
+      ],
+      "status": "abstain",
+      "reason": "K<3 或可观测实体过少",
+      "true_recall": 0.25,
+      "missed": 3,
+      "stable_recall": 0.25
+    }
+  ]
+}

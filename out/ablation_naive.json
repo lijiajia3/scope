@@ -1,0 +1,122 @@
+{
+ "zh": {
+  "dataset": "zh",
+  "n": 362,
+  "naive_u1": {
+   "n_cert": 335,
+   "n_abst": 27,
+   "cert_recall": 0.9017,
+   "abst_recall": 0.7333,
+   "gap": 0.1684,
+   "gap_ci95": [
+    0.0629,
+    0.2796
+   ]
+  },
+  "naive_u2": {
+   "n_cert": 313,
+   "n_abst": 49,
+   "cert_recall": 0.9031,
+   "abst_recall": 0.8001,
+   "gap": 0.103,
+   "gap_ci95": [
+    0.0309,
+    0.1733
+   ]
+  },
+  "scope": {
+   "n_cert": 256,
+   "n_abst": 106,
+   "cert_recall": 0.912,
+   "abst_recall": 0.8341,
+   "gap": 0.0779,
+   "gap_ci95": [
+    0.029,
+    0.1288
+   ]
+  },
+  "ranking_curve": {
+   "cov_gt": {
+    "keep50": 0.9176,
+    "keep60": 0.9164,
+    "keep70": 0.9165,
+    "keep80": 0.912,
+    "keep90": 0.9049
+   },
+   "union_sz": {
+    "keep50": 0.8863,
+    "keep60": 0.891,
+    "keep70": 0.8951,
+    "keep80": 0.899,
+    "keep90": 0.9024
+   },
+   "random": {
+    "keep50": 0.8937,
+    "keep60": 0.8936,
+    "keep70": 0.8921,
+    "keep80": 0.8909,
+    "keep90": 0.8896
+   }
+  }
+ },
+ "en": {
+  "dataset": "en",
+  "n": 500,
+  "naive_u1": {
+   "n_cert": 358,
+   "n_abst": 142,
+   "cert_recall": 0.8906,
+   "abst_recall": 0.0648,
+   "gap": 0.8258,
+   "gap_ci95": [
+    0.7918,
+    0.859
+   ]
+  },
+  "naive_u2": {
+   "n_cert": 192,
+   "n_abst": 308,
+   "cert_recall": 0.8567,
+   "abst_recall": 0.531,
+   "gap": 0.3258,
+   "gap_ci95": [
+    0.2648,
+    0.3838
+   ]
+  },
+  "scope": {
+   "n_cert": 350,
+   "n_abst": 150,
+   "cert_recall": 0.8799,
+   "abst_recall": 0.1337,
+   "gap": 0.7463,
+   "gap_ci95": [
+    0.6914,
+    0.7966
+   ]
+  },
+  "ranking_curve": {
+   "cov_gt": {
+    "keep50": 0.9103,
+    "keep60": 0.9013,
+    "keep70": 0.8847,
+    "keep80": 0.8045,
+    "keep90": 0.7241
+   },
+   "union_sz": {
+    "keep50": 0.8773,
+    "keep60": 0.885,
+    "keep70": 0.89,
+    "keep80": 0.8201,
+    "keep90": 0.7289
+   },
+   "random": {
+    "keep50": 0.6576,
+    "keep60": 0.6554,
+    "keep70": 0.6532,
+    "keep80": 0.6543,
+    "keep90": 0.6556
+   }
+  }
+ }
+}

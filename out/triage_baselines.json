@@ -1,0 +1,31 @@
+{
+ "n": 489,
+ "SCOPE_cov_risk": {
+  "auroc": 0.8319,
+  "ci95": [
+   0.796,
+   0.867
+  ]
+ },
+ "semantic_entropy": {
+  "auroc": 0.4359,
+  "ci95": [
+   0.388,
+   0.484
+  ]
+ },
+ "inv_self_consistency": {
+  "auroc": 0.4386,
+  "ci95": [
+   0.388,
+   0.484
+  ]
+ },
+ "inv_verbalized_conf": {
+  "auroc": 0.4781,
+  "ci95": [
+   0.433,
+   0.523
+  ]
+ }
+}

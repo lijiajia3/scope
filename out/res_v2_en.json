@@ -1,0 +1,121 @@
+{
+ "dataset": "en",
+ "n": 500,
+ "K": 20,
+ "A_calibration": {
+  "mean_true_recall": 0.6561,
+  "mean_cov_gt": 0.7103,
+  "gap_cov_gt": 0.0542,
+  "corr_cov_gt": 0.8619,
+  "mean_cov_chao": 0.7106,
+  "gap_cov_chao": 0.0545,
+  "corr_cov_chao": 0.8616
+ },
+ "B_abstain": {
+  "n_certified": 350,
+  "n_abstain": 150,
+  "certified_recall": 0.8799,
+  "abstain_recall": 0.1337,
+  "recall_gain": 0.7462
+ },
+ "C_decomposition": {
+  "omissions_half_budget": 573,
+  "systematic": 538,
+  "sampling_limited": 35,
+  "frac_systematic": 0.939
+ },
+ "D_triage_allmiss": {
+  "risk_gt": {
+   "auroc": 0.8323,
+   "review": {
+    "top10": 0.299,
+    "top20": 0.572,
+    "top30": 0.792,
+    "top50": 0.874
+   }
+  },
+  "set_entropy": {
+   "auroc": 0.4355,
+   "review": {
+    "top10": 0.067,
+    "top20": 0.106,
+    "top30": 0.132,
+    "top50": 0.262
+   }
+  },
+  "inv_self_consistency": {
+   "auroc": 0.4369,
+   "review": {
+    "top10": 0.059,
+    "top20": 0.1,
+    "top30": 0.143,
+    "top50": 0.262
+   }
+  },
+  "singleton_frac": {
+   "auroc": 0.8294,
+   "review": {
+    "top10": 0.299,
+    "top20": 0.572,
+    "top30": 0.784,
+    "top50": 0.874
+   }
+  },
+  "RANDOM": {
+   "auroc": 0.5,
+   "review": {
+    "top10": 0.094,
+    "top20": 0.188,
+    "top30": 0.283,
+    "top50": 0.485
+   }
+  }
+ },
+ "D_triage_sampling": {
+  "risk_gt": {
+   "auroc": 0.7153,
+   "review": {
+    "top10": 0.229,
+    "top20": 0.429,
+    "top30": 0.629,
+    "top50": 0.971
+   }
+  },
+  "set_entropy": {
+   "auroc": 0.7459,
+   "review": {
+    "top10": 0.171,
+    "top20": 0.257,
+    "top30": 0.371,
+    "top50": 1.0
+   }
+  },
+  "inv_self_consistency": {
+   "auroc": 0.7519,
+   "review": {
+    "top10": 0.257,
+    "top20": 0.314,
+    "top30": 0.343,
+    "top50": 1.0
+   }
+  },
+  "singleton_frac": {
+   "auroc": 0.7159,
+   "review": {
+    "top10": 0.229,
+    "top20": 0.429,
+    "top30": 0.686,
+    "top50": 0.971
+   }
+  },
+  "RANDOM": {
+   "auroc": 0.5,
+   "review": {
+    "top10": 0.057,
+    "top20": 0.12,
+    "top30": 0.183,
+    "top50": 0.474
+   }
+  }
+ }
+}

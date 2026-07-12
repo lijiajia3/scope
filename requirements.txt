@@ -1,0 +1,7 @@
+# SCOPE 依赖
+torch>=2.2
+transformers>=4.40
+accelerate>=0.30          # device_map / 大模型加载
+# 仅在 4070(CUDA) 上跑 7B 的 4-bit 量化时需要（Mac/CPU 不需要）：
+bitsandbytes>=0.43 ; platform_system != "Darwin"
+# 标准库 json/re/collections 无需安装。decode.py 首次运行会用已缓存/自动下载的模型。

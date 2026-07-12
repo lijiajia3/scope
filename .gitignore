@@ -1,0 +1,9 @@
+paper/
+*.aux
+*.log
+*.blg
+*.out
+*.bbl
+.DS_Store
+__pycache__/
+*.pyc
